@@ -1,8 +1,16 @@
 import { discoverValidationDepths } from "next/dist/server/app-render/instant-validation/instant-validation";
-import Image from "next/image";
+import Banner from "./components/Banner/Banner";
+import Stats from "./components/Stats/Stats";
+
 
 export default function Home() {
   return (
-    <div>hello next.js</div>
+    <>
+      <div className="bg-[#F8FAFC]">
+        <Banner></Banner>
+        <Stats></Stats>
+      </div>
+    </>
+
   );
 }
