@@ -61,7 +61,7 @@
     {
         "id": 5,
         "name": "Emily Rodriguez",
-        "picture": "https://i.pravatar.cc/300?img=24",
+        "picture": "https://i.ibb.co.com/r2kJ0pFQ/Ellipse-1-3.png",
         "email": "emily.rodriguez@protonmail.com",
         "days_since_contact": 9,
         "status": "on-track",
@@ -106,7 +106,7 @@
     {
         "id": 8,
         "name": "Tom Nguyen",
-        "picture": "https://i.ibb.co.com/1gLGr0n/Ellipse-1-6.png",
+        "picture": "https://i.ibb.co.com/KCzgQPn/Ellipse-1.png",
         "email": "tom.nguyen@outlook.com",
         "days_since_contact": 2,
         "status": "on-track",

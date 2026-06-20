@@ -1,7 +1,7 @@
 import Image from "next/image";
 const Banner = () => {
     return (
-        <div className="hero bg-[#ffff] min-h-[80%] ">
+        <div className="hero  min-h-[80%] ">
             <div className="hero-content text-center">
                 <div className="mt-28">
                     <h1 className="text-4xl font-bold">
